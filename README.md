@@ -1,3 +1,4 @@
 # Proyecto Blog
 
--Astro
+- Astro
+- Tailwind

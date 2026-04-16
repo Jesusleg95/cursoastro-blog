@@ -2,3 +2,4 @@
 
 - Astro
 - Tailwind
+- Mdx
